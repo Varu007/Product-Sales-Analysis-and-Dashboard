@@ -95,7 +95,8 @@ Key analyses and visualizations include:
 
 - The dashboard provides an at-a-glance view of key metrics and trends.
 - Insights can help inform inventory decisions, marketing strategies, and sales forecasting.
-<img width="914" height="493" alt="image" src="https://github.com/user-attachments/assets/de75d9b8-6288-4ab8-9da7-fda02b37baeb" />
+<img width="899" height="491" alt="image" src="https://github.com/user-attachments/assets/5ad2fe9c-4153-4e43-8a66-57a0581db5d2" />
+
 
 
 
