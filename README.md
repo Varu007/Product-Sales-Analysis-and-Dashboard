@@ -1,9 +1,10 @@
 # Product-Sales-Analysis-and-Dashboard
-This project provides a comprehensive analysis of product sales data using Jupyter Notebooks and visualizes key insights through interactive dashboards. It is designed to help businesses and analysts understand sales performance, trends, and opportunities for growth.
+This repository contains an end-to-end analysis of sales data using Jupyter Notebook and an interactive Power BI dashboard. The primary dataset used is `superstore_sales.xlsx`, which captures sales transactions for a fictional retail superstore. The project provides actionable insights into sales and profit trends, supporting data-driven decision-making.
 
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Prerequisites](#prerequisites)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -20,13 +21,25 @@ The Product Sales Analysis and Dashboard project aims to:
 - Provide actionable insights through data visualization.
 - Build an interactive dashboard for real-time exploration of sales metrics.
 
+### Prerequisites
+
+- Python (Recommended: 3.x)
+- Jupyter Notebook
+- Power BI Desktop
+- Required Python libraries (see individual notebook requirements)
+
 ## Features
 
-- Data cleaning and preprocessing
-- Exploratory data analysis (EDA)
-- Trend and seasonality detection
-- Top product/category identification
-- Interactive dashboard for reporting
+- **Comprehensive Data Analysis:**  
+  - Data cleaning and preprocessing  
+  - Exploratory data analysis (EDA)  
+  - Sales and profit trend analysis  
+  - Key performance metrics and visualizations
+
+- **Interactive Dashboard:**  
+  - Drill-down capability by region, category, and time  
+  - Dynamic filters for tailored insights  
+  - Visual tracking of both sales and profit trends over time
 
 ## Installation
 
@@ -51,6 +64,11 @@ The Product Sales Analysis and Dashboard project aims to:
    ```bash
    jupyter notebook
    ```
+
+4. **Use the Power BI Dashboard**
+    - Open `superstore_sales.xlsx` in Power BI Desktop.
+    - Load the Power BI dashboard file provided in the repository.
+    - Interact with visualizations and filters to analyze sales and profit trends.
 
 ## Usage
 
@@ -77,4 +95,7 @@ Key analyses and visualizations include:
 
 - The dashboard provides an at-a-glance view of key metrics and trends.
 - Insights can help inform inventory decisions, marketing strategies, and sales forecasting.
+<img width="914" height="493" alt="image" src="https://github.com/user-attachments/assets/de75d9b8-6288-4ab8-9da7-fda02b37baeb" />
+
+
 
